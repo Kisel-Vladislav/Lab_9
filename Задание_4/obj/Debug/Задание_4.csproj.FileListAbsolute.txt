@@ -1,0 +1,16 @@
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_9\Задание_4\bin\Debug\Задание_4.exe.config
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_9\Задание_4\bin\Debug\Задание_4.exe
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_9\Задание_4\bin\Debug\Задание_4.pdb
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_9\Задание_4\obj\Debug\Задание_4.csproj.AssemblyReference.cache
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_9\Задание_4\obj\Debug\Задание_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_9\Задание_4\obj\Debug\Задание_4.csproj.CoreCompileInputs.cache
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_9\Задание_4\obj\Debug\Задание_4.exe
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_9\Задание_4\obj\Debug\Задание_4.pdb
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_9\Lab_9\Задание_4\bin\Debug\Задание_4.exe.config
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_9\Lab_9\Задание_4\bin\Debug\Задание_4.exe
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_9\Lab_9\Задание_4\bin\Debug\Задание_4.pdb
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_9\Lab_9\Задание_4\obj\Debug\Задание_4.csproj.AssemblyReference.cache
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_9\Lab_9\Задание_4\obj\Debug\Задание_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_9\Lab_9\Задание_4\obj\Debug\Задание_4.csproj.CoreCompileInputs.cache
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_9\Lab_9\Задание_4\obj\Debug\Задание_4.exe
+C:\Users\vladk\OneDrive\Рабочий стол\C#\Lab_9\Lab_9\Задание_4\obj\Debug\Задание_4.pdb
